@@ -7,7 +7,3 @@
  */
 
 #include "elf64.hpp"
-
-int elf64::parse_elf() {
-  return 1;
-}
